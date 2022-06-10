@@ -1,4 +1,4 @@
-# Resource Wall
+# WOODS (Resource Wall)
 
 ## Project by Robert Di Ninno, James Ball, Joshua Cheung
 
